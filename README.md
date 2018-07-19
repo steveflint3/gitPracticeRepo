@@ -1,6 +1,6 @@
 # gitPracticeRepo
 
-###Git and Github Instructions
+### Git and Github Instructions
 Code Repository and Version Control
 
 
