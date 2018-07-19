@@ -1,4 +1,4 @@
 # gitPracticeRepo
 
-### Watch-Http-Server
-I am going to write the watch-http-server instructions here
+### watch-http-server
+Watch-http-server is a simple zero-configuration command-line http server, automatically watching for changes and injecting script into the client for automatic reload.
