@@ -34,9 +34,8 @@ Code Repository and Version Control
 5. Push your changes to GitHub: ```git push```.
 *Here is a list of commonly used Git commands, if you would like to practice more!! https://github.com/joshnh/Git-Commands*
 
-### HTML and CSS resources
-1. There are various excellent resources for HTML and CSS online.  Below are some of my favorites.
-*https://www.w3schools.com/htmL/*
-*https://www.w3schools.com/css/*
-*https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started*
-*https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works*
+### HTML and CSS resources: #### There are various excellent resources for HTML and CSS online.  Below are some of my favorites.
+1. https://www.w3schools.com/htmL/
+2. https://www.w3schools.com/css/
+3. https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+4. https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works
