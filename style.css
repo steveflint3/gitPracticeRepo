@@ -1,3 +1,22 @@
 h1{
-  background-color: green;
+  background-color: #ffff00;
+  color: lightblue;
+  margin-top: 100px;
+  text-align: right;
+}
+#pTag{
+  color: lightgreen;
+}
+body{
+  background-color: lightgray;
+}
+
+.item{
+  text-transform: lowercase;
+}
+
+img{
+  width: 300px;
+  display: block;
+  margin: auto;
 }
